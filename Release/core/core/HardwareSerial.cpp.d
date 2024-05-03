@@ -9,7 +9,7 @@ core\core\HardwareSerial.cpp.o: \
  C:\Users\oskwal05\eclipse\cpp-2024-03\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.8.6\cores\arduino\Print.h \
  C:\Users\oskwal05\eclipse\cpp-2024-03\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.8.6\cores\arduino\Printable.h \
  C:\Users\oskwal05\eclipse\cpp-2024-03\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.8.6\cores\arduino\USBAPI.h \
- C:\Users\oskwal05\eclipse\cpp-2024-03\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.8.6\variants\standard/pins_arduino.h \
+ C:\Users\oskwal05\eclipse\cpp-2024-03\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.8.6\variants\mega/pins_arduino.h \
  C:\Users\oskwal05\eclipse\cpp-2024-03\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.8.6\cores\arduino\HardwareSerial_private.h \
  C:\Users\oskwal05\eclipse\cpp-2024-03\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.8.6\cores\arduino\wiring_private.h
 
@@ -31,7 +31,7 @@ C:\Users\oskwal05\eclipse\cpp-2024-03\eclipse\arduinoPlugin\packages\arduino\har
 
 C:\Users\oskwal05\eclipse\cpp-2024-03\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.8.6\cores\arduino\USBAPI.h:
 
-C:\Users\oskwal05\eclipse\cpp-2024-03\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.8.6\variants\standard/pins_arduino.h:
+C:\Users\oskwal05\eclipse\cpp-2024-03\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.8.6\variants\mega/pins_arduino.h:
 
 C:\Users\oskwal05\eclipse\cpp-2024-03\eclipse\arduinoPlugin\packages\arduino\hardware\avr\1.8.6\cores\arduino\HardwareSerial_private.h:
 

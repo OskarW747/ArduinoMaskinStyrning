@@ -114,7 +114,7 @@ C:\Users\oskwal05\eclipse-workspace\ArduinoMaskinStyrning\Release\arduino.ar: $(
 
 ArduinoMaskinStyrning.elf: $(LINK_OBJ) $(AR)
 	@echo 'Starting combiner'
-	"C:\Users\oskwal05\eclipse\cpp-2024-03\eclipse\arduinoPlugin\packages\arduino\tools\avr-gcc\7.3.0-atmel3.6.1-arduino7/bin/avr-gcc" -w -Os -g -flto -fuse-linker-plugin -Wl,--gc-sections -mmcu=atmega328p   -o "C:\Users\oskwal05\eclipse-workspace\ArduinoMaskinStyrning\Release/ArduinoMaskinStyrning.elf"  $(LINK_OBJ)  $(AR) "-LC:\Users\oskwal05\eclipse-workspace\ArduinoMaskinStyrning\Release" -lm
+	"C:\Users\oskwal05\eclipse\cpp-2024-03\eclipse\arduinoPlugin\packages\arduino\tools\avr-gcc\7.3.0-atmel3.6.1-arduino7/bin/avr-gcc" -w -Os -g -flto -fuse-linker-plugin -Wl,--gc-sections,--relax -mmcu=atmega2560   -o "C:\Users\oskwal05\eclipse-workspace\ArduinoMaskinStyrning\Release/ArduinoMaskinStyrning.elf"  $(LINK_OBJ)  $(AR) "-LC:\Users\oskwal05\eclipse-workspace\ArduinoMaskinStyrning\Release" -lm
 	@echo 'Finished building: $@'
 	@echo ' '
 
